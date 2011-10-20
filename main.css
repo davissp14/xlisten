@@ -1,0 +1,292 @@
+html body
+{
+  background-color: #222121;
+}
+
+#subMenu
+{
+    height: 35px;
+    width: 1100px;
+    background-image: url('images/subMenu.jpg');
+}
+#bottomLeft
+{
+  margin-top: 425px;
+  width: 498px;
+  height: 240px;
+    border-right: solid;
+    border-width: thin;
+}
+#Header
+{
+  width: 1100px;
+  height: 100px;
+  background-image: url('images/header.jpg');
+}
+
+#Header_logout
+{
+   width: 1100px;
+  height: 100px;
+  background-image: url('images/header_logout.jpg');
+}
+
+
+#main
+{
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+  height: 800px;
+  border: solid;
+  border-width: thin;
+    background-color: #f8faf8;
+}
+
+
+#topRight
+{
+
+  width: 300px;
+  height: 30px;
+  float: right;
+}
+
+#playerControl
+{
+
+  width: 500px;
+  height: 34px;
+  float: left;
+  background-image: url('images/playerControl.jpg');
+}
+
+#leftPlayer
+{
+  width: 500px;
+  height: 410px;
+  float: left;
+
+
+
+}
+
+#rightInfo
+{
+  margin-top: 30px;
+  width: 597px;
+  height: 370px;
+  float: right;
+
+}
+
+.currentR
+{
+   width: 20px;
+   height: 20px;
+   background-repeat: no-repeat;
+}
+
+.current
+{
+
+   width: 20px;
+   height: 20px;
+   background-repeat: no-repeat;
+}
+
+#player
+{
+  float: left;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+body
+{
+   background-color: #000;
+}
+
+.stripeMe th
+{
+   background-color: #333131;
+   color: #fff;
+}
+
+.playButton
+{
+   width: 20px;
+   height: 20px;
+   background-image:url('images/playButton.png');
+   background-repeat: no-repeat;
+   cursor: pointer;
+}
+
+.playButtonAll
+{
+   width: 20px;
+   height: 20px;
+   background-image:url('images/playButton.png');
+   background-repeat: no-repeat;
+   cursor: pointer;
+}
+
+#container
+{
+   margin-top: 25px;
+   width: 300px;
+   height: 100px;
+   float: right;
+  border: solid;
+  border-width: thin;
+
+}
+
+#scrollbar
+{
+   float: right;
+   
+   width: 600px;
+   height: 628px;
+   overflow-y: visible;
+   overflow-x: hidden;
+   background-color: #f8faf8;
+}
+
+.border
+{
+   border: solid 1px #000;
+}
+
+.top
+{
+   background-color: #fff;
+   text-align: center;
+}
+
+.requestInformation
+{
+   border: solid;
+   border-width: thin;
+   width: 580px;
+    margin-left: 13px;
+   background-color: #f9f9f9;
+}
+
+#header
+{
+
+   width: 599px;
+   height: 35px;
+   float: right;
+   background-image: url('images/songHeader.jpg');
+}
+
+
+#subcontainer
+{
+   width: 475px;
+   height: 589px;
+   font-size: 12px;
+   font-style: italic;
+}
+
+
+
+.last td
+{
+   padding-left: 40px;
+   border: thin;
+}
+
+
+
+.last th
+{
+   text-align: center;
+   background: #4161a3;
+   padding-left: 40px;
+}
+
+.width th
+{
+   background-color: #350;
+   width: 20px;
+}
+
+.width td
+{
+   background-color: #349;
+   width: 200px;
+   border: dotted;
+
+}
+
+.center
+{
+   text-align: center;
+}
+
+.border
+{
+  border-style: solid;
+  border-width: thin;
+   width: 650px;
+}
+
+.playlist td
+{
+   width:175px;
+   border: none;
+   font-size: 18px;
+   font-weight: bold;
+   float: left;
+}
+
+.playlist tr
+{
+   padding-right: 30px;
+}
+.stripeMe tr
+{
+   width: 10px;
+}
+
+.stripeMe td
+{
+   border-color: #4161a3;
+   border: none;
+   font-size: 12px;
+   float: left;
+}
+
+.stripeMe th
+{
+   font-weight: bold;
+   padding-left: 63px;
+   font-size: 14px;
+   float: left;
+}
+
+
+
+#shared td
+{
+   color:#4b53ff;
+   font-weight: bold;
+}
+
+
+
+
+      .jqifade{ position: absolute; background-color: #aaaaaa; }
+			div.jqi{ width: 400px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; position: absolute; background-color: #ffffff; font-size: 11px; text-align: left; border: solid 1px #eeeeee; -moz-border-radius: 10px; -webkit-border-radius: 10px; padding: 7px; }
+			div.jqi .jqicontainer{ font-weight: bold; }
+			div.jqi .jqiclose{ position: absolute; top: 4px; right: -2px; width: 18px; cursor: default; color: #bbbbbb; font-weight: bold; }
+			div.jqi .jqimessage{ padding: 10px; line-height: 20px; color: #444444; }
+			div.jqi .jqibuttons{ text-align: right; padding: 5px 0 5px 0; border: solid 1px #eeeeee; background-color: #f4f4f4; }
+			div.jqi button{ padding: 3px 10px; margin: 0 10px; background-color: #2F6073; border: solid 1px #f4f4f4; color: #ffffff; font-weight: bold; font-size: 12px; }
+			div.jqi button:hover{ background-color: #728A8C; }
+			div.jqi button.jqidefaultbutton{ background-color: #BF5E26; }
+			.jqiwarning .jqi .jqibuttons{ background-color: #BF5E26; }
